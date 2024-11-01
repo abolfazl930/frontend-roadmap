@@ -57,55 +57,52 @@ Powered by Snapp! Front-End Engineers 💚
 
 ### Beginner
 
-- **[Ultimate HTML & CSS](https://codewithmosh.com/p/the-ultimate-html-css-part1)**
-  🙍🏻‍♂️ _Instructor: Mosh_  
-  ⏰ _3 Hours . 4 Sections . 50 Lessons_
-  📝 _What You'll Learn:
-  Learn and understand the fundamentals of web development
-  Use HTML to structure your web pages
-  Apply CSS styles to control the layout, colors, fonts, etc
-  Prevent cross-browser issues
-  Inspect and debug web pages using Chrome DevTools
-  Learn industry best practices for writing clean, well-structured HTML and CSS code
-  Validate your HTML5/CSS3 code
+- **[Ultimate HTML & CSS](https://codewithmosh.com/p/the-ultimate-html-css-part1)**<br>🙍🏻‍♂️ _Instructor: Mosh_ <br> ⏰ _3 Hours . 4 Sections . 50 Lessons_ <br> 📝 _What You'll Learn:<br>
+  Learn and understand the fundamentals of web development<br>
+  Use HTML to structure your web pages<br>
+  Apply CSS styles to control the layout, colors, fonts, etc<br>
+  Prevent cross-browser issues<br>
+  Inspect and debug web pages using Chrome DevTools<br>
+  Learn industry best practices for writing clean, well-structured HTML and CSS code<br>
+  Validate your HTML5/CSS3 code<br>
   And much, much more!_
 
 ### Intermediate
 
-- **[Ultimate HTML & CSS (Part A)](https://codewithmosh.com/p/the-ultimate-html-css-part2)**
-  🙍🏻‍♂️ _Instructor: Mosh_  
-  ⏰ _3 Hours . 4 Sections . 50 Lessons_
-  📝 _What You'll Learn:
-  Build layouts and position elements using flex and grid layout systems.
-  Use media queries to create responsive web designs that adapt to different screen sizes.
-  Work effectively with CSS measurement units (px, rem, em, vw, etc).
-  Techniques for optimizing images to improve website performance.
-  Utilize SVG to create vector-based graphics that scale smoothly.
-  Add visual pinch with transforms, transitions and animations.
-  Build forms with data validation built-into HTML5.
-  Create beautiful typography.
-  Learn industry best practices for creating modern websites.
-  Troubleshoot issues with confidence.
-  Write clean, maintainable, object-oriented CSS3 code._
+- **[Ultimate HTML & CSS (Part A)](https://codewithmosh.com/p/the-ultimate-html-css-part2)**<br>
+  🙍🏻‍♂️ _Instructor: Mosh_  <br>
+  ⏰ _3 Hours . 4 Sections . 50 Lessons_ <br>
+  📝 _What You'll Learn: <br>
+  Build layouts and position elements using flex and grid layout systems. <br>
+  Use media queries to create responsive web designs that adapt to different screen sizes. <br>
+  Work effectively with CSS measurement units (px, rem, em, vw, etc). <br>
+  Techniques for optimizing images to improve website performance. <br>
+  Utilize SVG to create vector-based graphics that scale smoothly. <br>
+  Add visual pinch with transforms, transitions and animations. <br>
+  Build forms with data validation built-into HTML5. <br>
+  Create beautiful typography. <br>
+  Learn industry best practices for creating modern websites. <br>
+  Troubleshoot issues with confidence. <br>
+  Write clean, maintainable, object-oriented CSS3 code._ <br>
 
-- **[Ultimate HTML & CSS (Part B)](https://codewithmosh.com/p/the-ultimate-html-css-part3)**
-  🙍🏻‍♂️ _Instructor: Mosh_  
-  ⏰ _6 Hours . 1 Sections . 50 Lessons_
-  📝 _What You'll Learn:
-  Convert Photoshop mockup designs into real websites.
-  Build responsive websites using the mobile-first approach.
-  Create layouts with Flex and Grid layout systems.
-  Add smooth, beautiful animations.
-  Optimize images for performance.
-  Troubleshoot issues like a pro.
-  Learn industry best practices for writing HTML5/CSS3 code.
-  Measure your website's performance.
-  Write valid, semantic HTML5 code that search engines love.
-  Increase your productivity using little-known shortcuts.
-  Get to know the tools that make your job easier.
-  Host your code on GitHub.
-  Deploy your websites to the cloud.
-  Set up continuous deployment._
+- **[Ultimate HTML & CSS (Part B)](https://codewithmosh.com/p/the-ultimate-html-css-part3)** <br>
+  🙍🏻‍♂️ _Instructor: Mosh_  <br>
+  ⏰ _6 Hours . 1 Sections . 50 Lessons_ <br>
+  📝 _What You'll Learn: <br>
+  Convert Photoshop mockup designs into real websites. <br>
+  Build responsive websites using the mobile-first approach. <br>
+  Create layouts with Flex and Grid layout systems. <br>
+  Add smooth, beautiful animations. <br>
+  Optimize images for performance. <br>
+  Troubleshoot issues like a pro. <br>
+  Learn industry best practices for writing HTML5/CSS3 code. <br>
+  Measure your website's performance. <br>
+  Write valid, semantic HTML5 code that search engines love. <br>
+  Increase your productivity using little-known shortcuts. <br>
+  Get to know the tools that make your job easier. <br>
+  Host your code on GitHub. <br>
+  Deploy your websites to the cloud. <br>
+  Set up continuous deployment._ <br>
 
 ### Advanced
 
