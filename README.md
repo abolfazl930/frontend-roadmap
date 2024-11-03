@@ -98,7 +98,7 @@ Powered by Snapp! Front-End Engineers 💚
 
 - **[JavaScript: The Hard Parts series](https://#)** <br>
 
-  - **[JavaScript The Hard Parts,V2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)\_** <br>
+  - **[JavaScript The Hard Parts,V2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)** <br>
     🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
     ⏰ _6 hours, 41 minutes_ <br>
     📝 _Go under the hood of some of the most important aspects of JavaScript! You'll learn what you need to know to become a sought-after, versatile, problem-solving developer. Combining mental models of JavaScript's inner workings and hands-on programming challenges, this course will give you a solid understanding of callbacks and higher-order functions, closure, asynchronous JavaScript, and object-oriented JavaScript! This course is for developers with a basic to intermediate knowledge of JavaScript who wants to deepen their understanding of the fundamentals to the next level._
