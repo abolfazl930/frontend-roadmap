@@ -18,7 +18,7 @@ We’ve organized each major front-end topic—such as **HTML/CSS**, **JavaScrip
 
 - **Beginner**: For those just starting out with foundational concepts.
 - **Intermediate**: For developers ready to deepen their knowledge and refine their skills.
-- **Advanced**: For front-end engineers who want to master complex topics and specialized areas.
+- **Deep & Advanced**: For front-end engineers who want to master complex topics and specialized areas.
 
 Within each level, you’ll find carefully selected courses, tutorials, and projects, so you know exactly where to start and how to level up.
 
@@ -75,8 +75,6 @@ Powered by Snapp! Front-End Engineers 💚
   ⏰ _6 Hours . 1 Sections . 50 Lessons_ <br>
   📝 _Learn to convert Photoshop design mockups into real websites_
 
-### Advanced
-
 ---
 
 ## ⚡️ JavaScript
@@ -95,13 +93,24 @@ Powered by Snapp! Front-End Engineers 💚
   ⏰ _4 Hours . 6 Sections . 60 Lessons_ <br>
   📝 _Level up your JavaScript skills and prepare for technical interviews._
 
-### Advanced
+### Deep & Advanced
 
-- **[JavaScript: Understanding the Weird Parts](https://example.com)** - _Instructor: Anthony Alicea_  
-  Focuses on closures, prototypal inheritance, and other advanced JavaScript concepts.
+- **[JavaScript The Hard Parts series](https://#)** <br>
 
-- **[JavaScript Design Patterns](https://example.com)** - _Instructor: Addy Osmani_  
-  Covers JavaScript patterns that are essential for scalable code.
+- **[JavaScript The Hard Parts,V2 (First)](https://frontendmasters.com/courses/javascript-hard-parts-v2/)** <br>
+  🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
+  ⏰ _6 hours, 41 minutes_ <br>
+  📝 _Go under the hood of some of the most important aspects of JavaScript! You'll learn what you need to know to become a sought-after, versatile, problem-solving developer. Combining mental models of JavaScript's inner workings and hands-on programming challenges, this course will give you a solid understanding of callbacks and higher-order functions, closure, asynchronous JavaScript, and object-oriented JavaScript! This course is for developers with a basic to intermediate knowledge of JavaScript who wants to deepen their understanding of the fundamentals to the next level._
+
+- **[The Hard Parts of Asynchronous JavaScript (Second)](https://frontendmasters.com/courses/javascript-new-hard-parts/)** <br>
+  🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
+  ⏰ _4 hours, 46 minutes_ <br>
+  📝 _In this course, you will develop an intuitive understanding of the new features of JavaScript in ES6+: iterators, generators, promises, and async/await. You'll understand how promises are implemented under-the-hood to truly help fix the challenge of inversion of control in asynchronous code design. Plus, use iterators and generators to master asynchronous control flow. Go under the hood and solve complex async challenges by using the call stack, event loop, callback queue, micro-task queue and browser APIs so that you can navigate complex asynchronous problems, easily!_
+
+- **[The Hard Parts of UI Development (Third)](https://frontendmasters.com/courses/hard-parts-ui-dev/)** <br>
+  🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
+  ⏰ _9 hours, 19 minutes_ <br>
+  📝 _Keeping what the user sees in sync with the app's data can be tricky, particularly in browsers and big apps. UI tools like React, Angular, and Vue help, but they can be hard to use if you don't know what problems they solve. Develop an under-the-hood knowledge of UI dev by learning techniques such as data binding, UI composition, templating, virtual DOM and its reconciliation, and hooks, all from scratch! You'll learn how JavaScript interacts with browser features like the DOM and HTML parser. By the end, you'll have a complete mental model of UI dev that you can apply to any framework!_
 
 ---
 
@@ -123,7 +132,7 @@ Powered by Snapp! Front-End Engineers 💚
 - **[React Router and Redux](https://example.com)** - _Instructor: freeCodeCamp_  
   Covers React Router and state management with Redux.
 
-### Advanced
+### Deep & Advanced
 
 - **[Advanced React Patterns](https://example.com)** - _Instructor: Kent C. Dodds_  
   Explores advanced React concepts such as render props, context, and compound components.
