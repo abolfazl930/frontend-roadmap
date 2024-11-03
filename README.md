@@ -99,6 +99,7 @@ Powered by Snapp! Front-End Engineers 💚
 ### Deep & Advanced
 
 - **[JavaScript: The Hard Parts series](https://frontendmasters.com/teachers/will-sentance/)** <br>
+  🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
 
   - **[JavaScript The Hard Parts,V2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)** <br>
     🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
