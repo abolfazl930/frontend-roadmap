@@ -49,6 +49,7 @@ Powered by Snapp! Front-End Engineers 💚
 
 - [HTML & CSS](#html--css)
 - [Javascript](#javascript)
+- [TypeScript](#TypeScript)
 - [React](#react)
 - [Version Control and Collaboration](#Version-Control-and-Collaboration)
 
@@ -123,6 +124,17 @@ Powered by Snapp! Front-End Engineers 💚
     🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
     ⏰ _4 hours, 54 minutes_ <br>
     📝 _Explore the increasingly popular paradigm of functional programming in JavaScript! You’ll learn how to wield and manipulate functions to develop more readable, maintainable and manageable codebases. You’ll go under the hood of powerful techniques like: Higher Order Functions, Function Composition, Pure Functions, and Immutability of State._
+
+---
+
+## TypeScript
+
+### Beginner
+
+- **[The Ultimate TypeScript Course](https://codewithmosh.com/p/the-ultimate-typescript)** <br>
+  🙍🏻‍♂️ _Instructor: Mosh_ <br>
+  ⏰ _5 Hours . 12 Sections . 120 Lessons_ <br>
+  📝 _Learn to make your JavaScript applications scale._
 
 ---
 
