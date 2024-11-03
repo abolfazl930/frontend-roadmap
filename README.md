@@ -143,9 +143,16 @@ Powered by Snapp! Front-End Engineers 💚
 
 ## React
 
+### Beginner
+
+- **[React 18 for Beginners](https://codewithmosh.com/p/ultimate-react-part1)** <br>
+  🙍🏻‍♂️ _Instructor: Mosh_ <br>
+  ⏰ _8 Hours . 8 Sections . 140 Lessons_ <br>
+  📝 _A step-by-step guide to building web apps with React 18+ and TypeScript._
+
 ### Beginner to Advanced
 
-- **[Epic React - React19 (recommended)](https://www.epicreact.dev/workshops)** <br>
+- **[Epic React - React19](https://www.epicreact.dev/workshops)** <br>
   🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
   📝 _A collection of exercise-driven, in-depth React workshops._
 
