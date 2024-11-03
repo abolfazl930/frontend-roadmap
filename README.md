@@ -64,13 +64,14 @@ Powered by Snapp! Front-End Engineers 💚
 
 ### Intermediate
 
-- **[Ultimate HTML & CSS (Part A)](https://codewithmosh.com/p/the-ultimate-html-css-part2)**<br>
-  🙍🏻‍♂️ _Instructor: Mosh_  <br>
+- ##### Ultimate HTML & CSS
+- **[Part A](https://codewithmosh.com/p/the-ultimate-html-css-part2)**<br>
+  🙍🏻‍♂️ _Instructor: Mosh_ <br>
   ⏰ _3 Hours . 4 Sections . 50 Lessons_ <br>
   📝 _What You'll Learn: Master advanced HTML5 &amp; CSS3 concepts behind fast, beautiful and mobile-friendly websites_
 
-- **[Ultimate HTML & CSS (Part B)](https://codewithmosh.com/p/the-ultimate-html-css-part3)** <br>
-  🙍🏻‍♂️ _Instructor: Mosh_  <br>
+- **[Part B](https://codewithmosh.com/p/the-ultimate-html-css-part3)** <br>
+  🙍🏻‍♂️ _Instructor: Mosh_ <br>
   ⏰ _6 Hours . 1 Sections . 50 Lessons_ <br>
   📝 _What You'll Learn: Learn to convert Photoshop design mockups into real websites_
 
