@@ -1,5 +1,7 @@
 # Front-End Engineer Learning Roadmap
 
+<img src="assets/image.webp/>
+
 Welcome to the **Front-End Engineer Learning Roadmap**! 🎉
 
 This roadmap is a structured, community-driven guide for front-end developers at any stage—whether you're a **beginner** learning the basics, an **intermediate** developer honing your skills, or an **advanced** engineer looking to specialize.
