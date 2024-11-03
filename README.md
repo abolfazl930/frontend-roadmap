@@ -127,26 +127,43 @@ Powered by Snapp! Front-End Engineers 💚
 
 ## ⚡️ React
 
-### Beginner
+### Beginner to Advanced
 
-- **[React Basics](https://example.com)** - _Instructor: Mosh_  
-  Introduction to React, covering components, state, and props.
+- **[Epic React - React19 (recommended)](https://www.epicreact.dev/workshops)** <br>
+  🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
+  📝 _A collection of exercise-driven, in-depth React workshops._
 
-- **[React Fundamentals](https://example.com)** - _Instructor: Scrimba_  
-  A hands-on course for building basic React applications.
+  - **[React Fundamentals](https://www.epicreact.dev/workshops/react-fundamentals)** <br>
+    🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
+    📝 _Learn everything you need to be effective with the fundamental building blocks of React applications._
 
-### Intermediate
+  - **[React Hooks](https://www.epicreact.dev/workshops/react-hooks)** <br>
+    🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
+    📝 _learn how to use hooks to manage state, synchronize side-effects, generate unique ids, and more._
 
-- **[Modern React with Hooks](https://example.com)** - _Instructor: Stephen Grider_  
-  Detailed explanations of React Hooks and how to use them in real-world apps.
+  - **[Advanced React APIs](https://www.epicreact.dev/workshops/advanced-react-apis)** <br>
+    🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
+    📝 _Advanced React APIs covers many of the React APIs that you might not see on a day-to-day basis but you will need these in your toolbelt for certain scenarios that pop up._
 
-- **[React Router and Redux](https://example.com)** - _Instructor: freeCodeCamp_  
-  Covers React Router and state management with Redux.
+  - **[React Suspense](https://www.epicreact.dev/workshops/react-suspense)** <br>
+    🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
+    📝 _Suspense is key to managing async operations declaratively in React._
 
-### Deep & Advanced
+  - **[Advanced React Patterns](https://www.epicreact.dev/workshops/advanced-react-patterns)** <br>
+    🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
+    📝 _Make your code better than ever by learning the strengths and weaknesses of several advanced patterns._
 
-- **[Advanced React Patterns](https://example.com)** - _Instructor: Kent C. Dodds_  
-  Explores advanced React concepts such as render props, context, and compound components.
+  - **[React Performance](https://www.epicreact.dev/workshops/react-performance)** <br>
+    🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
+    📝 _we will diagnose, profile, and fix performance problems in your React application using the Browser Profiler, React DevTools Profiler, and optimization techniques._
 
-- **[React Performance Optimization](https://example.com)** - _Instructor: Cassidy Williams_  
-  Techniques for optimizing React apps for better performance.
+  - **[React Server Components](https://www.epicreact.dev/workshops/react-server-components)** <br>
+    🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
+    📝 _React server components (RSCs) are experimental and only used by a few frameworks..._
+
+## ⚡️ Version Control and Collaboration
+
+- **[The Ultimate Git Course](https://codewithmosh.com/p/the-ultimate-git-course)** <br>
+  🙍🏻‍♂️ _Instructor: Mosh_ <br>
+  ⏰ _6 Hours . 6 Sections . 120 Lessons_ <br>
+  📝 _Everything you need to know to use Git & GitHub to work effectively as a team._
