@@ -96,22 +96,32 @@ Powered by Snapp! Front-End Engineers 💚
 
 ### Deep & Advanced
 
-- **[JavaScript The Hard Parts series](https://#)** <br>
+- **[JavaScript: The Hard Parts series](https://#)** <br>
 
-  - **_[JavaScript The Hard Parts,V2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)_** <br>
+  - **[JavaScript The Hard Parts,V2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)\_** <br>
     🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
     ⏰ _6 hours, 41 minutes_ <br>
     📝 _Go under the hood of some of the most important aspects of JavaScript! You'll learn what you need to know to become a sought-after, versatile, problem-solving developer. Combining mental models of JavaScript's inner workings and hands-on programming challenges, this course will give you a solid understanding of callbacks and higher-order functions, closure, asynchronous JavaScript, and object-oriented JavaScript! This course is for developers with a basic to intermediate knowledge of JavaScript who wants to deepen their understanding of the fundamentals to the next level._
 
-  - **[The Hard Parts of Asynchronous JavaScript (Second)](https://frontendmasters.com/courses/javascript-new-hard-parts/)** <br>
+  - **[The Hard Parts of Asynchronous JavaScript](https://frontendmasters.com/courses/javascript-new-hard-parts/)** <br>
     🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
     ⏰ _4 hours, 46 minutes_ <br>
     📝 _In this course, you will develop an intuitive understanding of the new features of JavaScript in ES6+: iterators, generators, promises, and async/await. You'll understand how promises are implemented under-the-hood to truly help fix the challenge of inversion of control in asynchronous code design. Plus, use iterators and generators to master asynchronous control flow. Go under the hood and solve complex async challenges by using the call stack, event loop, callback queue, micro-task queue and browser APIs so that you can navigate complex asynchronous problems, easily!_
 
-  - **[The Hard Parts of UI Development (Third)](https://frontendmasters.com/courses/hard-parts-ui-dev/)** <br>
+  - **[The Hard Parts of UI Development](https://frontendmasters.com/courses/hard-parts-ui-dev/)** <br>
     🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
     ⏰ _9 hours, 19 minutes_ <br>
     📝 _Keeping what the user sees in sync with the app's data can be tricky, particularly in browsers and big apps. UI tools like React, Angular, and Vue help, but they can be hard to use if you don't know what problems they solve. Develop an under-the-hood knowledge of UI dev by learning techniques such as data binding, UI composition, templating, virtual DOM and its reconciliation, and hooks, all from scratch! You'll learn how JavaScript interacts with browser features like the DOM and HTML parser. By the end, you'll have a complete mental model of UI dev that you can apply to any framework!_
+
+  - **[The Hard Parts of Object Oriented JavaScript](https://frontendmasters.com/courses/object-oriented-js/)** <br>
+    🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
+    ⏰ _4 hours, 30 minute_ <br>
+    📝 _Learn the fundamentals of Object Oriented Programming in JavaScript for organizing and scaling your code. You'll learn JavaScript’s prototypal design and how it works to enable the new ES6 classes under the hood. Understanding prototypes and classes in JavaScript is crucial for working with most modern frameworks and for those coming from traditional OOP languages._
+
+  - **[The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/)** <br>
+    🙍🏻‍♂️ _Instructor: Will Sentance_ <br>
+    ⏰ _4 hours, 54 minutes_ <br>
+    📝 _Explore the increasingly popular paradigm of functional programming in JavaScript! You’ll learn how to wield and manipulate functions to develop more readable, maintainable and manageable codebases. You’ll go under the hood of powerful techniques like: Higher Order Functions, Function Composition, Pure Functions, and Immutability of State._
 
 ---
 
