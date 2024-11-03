@@ -83,19 +83,17 @@ Powered by Snapp! Front-End Engineers 💚
 
 ### Beginner
 
-- **[JavaScript Basics for Beginners](https://example.com)** - _Instructor: Mosh_  
-  A solid introduction to JavaScript fundamentals for absolute beginners.
-
-- **[JavaScript Essentials](https://example.com)** - _Instructor: Codecademy_  
-  Interactive JavaScript tutorials covering variables, loops, functions, and more.
+- **[Ultimate JavaScript: Fundamentals](https://codewithmosh.com/p/javascript-basics-for-beginners)** <br>
+  🙍🏻‍♂️ _Instructor: Mosh_ <br>
+  ⏰ _6 Hours . 7 Sections . 100 Lessons_ <br>
+  📝 _Master the fundamentals of programming in JavaScript._
 
 ### Intermediate
 
-- **[JavaScript 30](https://example.com)** - _Instructor: Wes Bos_  
-  Build 30 projects in 30 days to strengthen your JavaScript skills.
-
-- **[You Don’t Know JS (Book Series)](https://example.com)** - _Author: Kyle Simpson_  
-  A deep dive into core JavaScript concepts, highly recommended for intermediate learners.
+- **[Ultimate JavaScript: Advanced Topics](https://codewithmosh.com/p/object-oriented-programming-in-javascript)** <br>
+  🙍🏻‍♂️ _Instructor: Mosh_ <br>
+  ⏰ _4 Hours . 6 Sections . 60 Lessons_ <br>
+  📝 _Level up your JavaScript skills and prepare for technical interviews._
 
 ### Advanced
 
