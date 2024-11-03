@@ -48,12 +48,13 @@ Powered by Snapp! Front-End Engineers 💚
 ## Table of Contents
 
 - [HTML & CSS](#html--css)
-- [JavaScript](#javascript)
+- [Javascript](#javascript)
 - [React](#react)
+- [Version Control and Collaboration](#Version-Control-and-Collaboration)
 
 ---
 
-## ⚡️ HTML & CSS
+## HTML & CSS
 
 ### Beginner
 
@@ -78,7 +79,7 @@ Powered by Snapp! Front-End Engineers 💚
 
 ---
 
-## ⚡️ JavaScript
+## Javascript
 
 ### Beginner
 
@@ -125,7 +126,7 @@ Powered by Snapp! Front-End Engineers 💚
 
 ---
 
-## ⚡️ React
+## React
 
 ### Beginner to Advanced
 
@@ -163,7 +164,7 @@ Powered by Snapp! Front-End Engineers 💚
 
 ---
 
-## ⚡️ Version Control and Collaboration
+## Version Control and Collaboration
 
 - **[The Ultimate Git Course](https://codewithmosh.com/p/the-ultimate-git-course)** <br>
   🙍🏻‍♂️ _Instructor: Mosh_ <br>
