@@ -161,6 +161,8 @@ Powered by Snapp! Front-End Engineers 💚
     🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
     📝 _React server components (RSCs) are experimental and only used by a few frameworks..._
 
+---
+
 ## ⚡️ Version Control and Collaboration
 
 - **[The Ultimate Git Course](https://codewithmosh.com/p/the-ultimate-git-course)** <br>
