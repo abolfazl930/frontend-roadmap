@@ -1,6 +1,6 @@
 # Front-End Engineer Learning Roadmap
 
-<img src="./assets/image.webp" width="600"/>
+<img src="./assets/image.webp" width="100%"/>
 
 Welcome to the **Front-End Engineer Learning Roadmap**! 🎉
 
