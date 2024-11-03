@@ -11,6 +11,8 @@ Unlike other roadmaps, this one combines:
 - **Clear, Simple Structure**: All resources are organized into one easy-to-read file.
 - **Curated, High-Quality Resources**: Each topic includes trusted resources to help you learn effectively without the clutter.
 - **Collaborative, Open-Source Approach**: This roadmap is community-driven, so it stays current and reflects what works best for real front-end developers.
+- **Limit on Courses per Level**: For each topic and skill level, we recommend **3 to 5 high-quality courses**. This ensures that users have enough options to choose from without feeling overwhelmed. Each course should bring unique value or perspective to the topic, covering essential concepts without redundancy.
+  By keeping this limit, we can focus on quality over quantity and maintain a clear, streamlined learning path for all users.
 
 ### How It Works
 
