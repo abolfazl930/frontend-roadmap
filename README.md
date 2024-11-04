@@ -141,6 +141,11 @@ Powered by Snapp! Front-End Engineers 💚
   ⏰ _5 Hours . 12 Sections . 120 Lessons_ <br>
   📝 _Learn to make your JavaScript applications scale._
 
+- **[TypeScript 5+ Fundamentals, v4](https://frontendmasters.com/courses/typescript-v4/)** <br>
+  🙍🏻‍♂️ _Mike North_ <br>
+  ⏰ _5 Hours . 9 Sections . 34 Lessons_ <br>
+  📝 _Learn all the key Typescript features such as variable typing, function signatures, union and intersection types, type aliases, and generics. Use effective strategies for transitioning your codebase to TypeScript for more robust and scalable applications._
+
 ### Intermediate to Advanced
 
 - **[Total TypeScript](https://www.totaltypescript.com)** <br>
