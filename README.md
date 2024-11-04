@@ -141,6 +141,13 @@ Powered by Snapp! Front-End Engineers 💚
   ⏰ _5 Hours . 12 Sections . 120 Lessons_ <br>
   📝 _Learn to make your JavaScript applications scale._
 
+### Intermediate to Advanced
+
+- **[Total TypeScript](https://www.totaltypescript.com)** <br>
+  🙍🏻‍♂️ _Instructor: Matt Pocock_ <br>
+  ⏰ _33 Sections . More than 200 exercises_ <br>
+  📝 _A collection of professional, exercise-driven, in-depth, self-paced TypeScript workshops for you to achieve TypeScript wizardry._
+
 ---
 
 ## React
