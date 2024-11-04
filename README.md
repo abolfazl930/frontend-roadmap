@@ -141,6 +141,25 @@ Powered by Snapp! Front-End Engineers 💚
   ⏰ _5 Hours . 12 Sections . 120 Lessons_ <br>
   📝 _Learn to make your JavaScript applications scale._
 
+- **[TypeScript 5+ Fundamentals, v4](https://frontendmasters.com/courses/typescript-v4/)** <br>
+  🙍🏻‍♂️ _Mike North_ <br>
+  ⏰ _5 Hours . 9 Sections . 34 Lessons_ <br>
+  📝 _Learn all the key Typescript features such as variable typing, function signatures, union and intersection types, type aliases, and generics. Use effective strategies for transitioning your codebase to TypeScript for more robust and scalable applications._
+
+### Intermediate
+
+- **[Intermediate TypeScript, v2](https://frontendmasters.com/courses/intermediate-typescript-v2/)** <br>
+  🙍🏻‍♂️ _Mike North_ <br>
+  ⏰ _5 Hours . 9 Sections . 33 Lessons_ <br>
+  📝 _Dive deeper into TypeScript's powerful features, including handling of extreme types, nullish values, ES modules, and advanced generics. Learn about namespaces, classes, top and bottom types, and practical use of conditional and mapped types. Gain proficiency in integrating non-TypeScript files and mastering utility types for more expressive and safe TypeScript coding._
+
+### Intermediate to Advanced
+
+- **[Total TypeScript](https://www.totaltypescript.com)** <br>
+  🙍🏻‍♂️ _Instructor: Matt Pocock_ <br>
+  ⏰ _33 Sections . More than 200 exercises_ <br>
+  📝 _A collection of professional, exercise-driven, in-depth, self-paced TypeScript workshops for you to achieve TypeScript wizardry._
+
 ---
 
 ## React
