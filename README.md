@@ -82,6 +82,18 @@ Powered by Snapp! Front-End Engineers 💚
     ⏰ _6 Hours . 1 Sections . 50 Lessons_ <br>
     📝 _Learn to convert Photoshop design mockups into real websites_
 
+### Deep & Advanced
+
+  - **[Accessibility](https://frontendmasters.com/courses/archive/web-accessibility)**<br>
+  🙍🏻‍♂️ _Instructor: Jon Kuperman_ <br>
+  ⏰ _4 Hours_ <br>
+  📝 _Website Accessibility_
+
+  - **[SEO](https://frontendmasters.com/courses/modern-seo)**<br>
+  🙍🏻‍♂️ _Instructor: Mike North_ <br>
+  ⏰ _4 Hours_ <br>
+  📝 _Modern Search Engine Optimization (SEO)_
+
 ---
 
 ## Javascript
@@ -205,6 +217,14 @@ Powered by Snapp! Front-End Engineers 💚
     🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
     📝 _React server components (RSCs) are experimental and only used by a few frameworks..._
 
+
+### Deep & Advanced
+
+- **[React Performance](https://frontendmasters.com/courses/react-performance)**<br>
+  🙍🏻‍♂️ _Instructor: Steve Kinney_ <br>
+  ⏰ _4 hours, 30 minute_ <br>
+  📝 _React Performance_
+
 ---
 
 ## Version Control and Collaboration
@@ -213,3 +233,4 @@ Powered by Snapp! Front-End Engineers 💚
   🙍🏻‍♂️ _Instructor: Mosh_ <br>
   ⏰ _6 Hours . 6 Sections . 120 Lessons_ <br>
   📝 _Everything you need to know to use Git & GitHub to work effectively as a team._
+
