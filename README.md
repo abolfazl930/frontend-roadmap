@@ -56,6 +56,7 @@ Powered by Snapp! Front-End Engineers 💚
 - [TypeScript](#TypeScript)
 - [React](#react)
 - [Version Control and Collaboration](#Version-Control-and-Collaboration)
+- [Testing](#Testing)
 
 ---
 
