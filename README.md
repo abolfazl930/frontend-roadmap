@@ -84,12 +84,12 @@ Powered by Snapp! Front-End Engineers 💚
 
 ### Deep & Advanced
 
-  - **[Accessibility](https://frontendmasters.com/courses/archive/web-accessibility)**<br>
+- **[Accessibility](https://frontendmasters.com/courses/archive/web-accessibility)**<br>
   🙍🏻‍♂️ _Instructor: Jon Kuperman_ <br>
   ⏰ _4 Hours_ <br>
   📝 _Website Accessibility_
 
-  - **[SEO](https://frontendmasters.com/courses/modern-seo)**<br>
+- **[SEO](https://frontendmasters.com/courses/modern-seo)**<br>
   🙍🏻‍♂️ _Instructor: Mike North_ <br>
   ⏰ _4 Hours_ <br>
   📝 _Modern Search Engine Optimization (SEO)_
@@ -217,7 +217,6 @@ Powered by Snapp! Front-End Engineers 💚
     🙍🏻‍♂️ _Instructor: Kent C. Dodds_ <br>
     📝 _React server components (RSCs) are experimental and only used by a few frameworks..._
 
-
 ### Deep & Advanced
 
 - **[React Performance](https://frontendmasters.com/courses/react-performance)**<br>
@@ -229,8 +228,20 @@ Powered by Snapp! Front-End Engineers 💚
 
 ## Version Control and Collaboration
 
+### Beginner to Advanced
+
 - **[The Ultimate Git Course](https://codewithmosh.com/p/the-ultimate-git-course)** <br>
   🙍🏻‍♂️ _Instructor: Mosh_ <br>
   ⏰ _6 Hours . 6 Sections . 120 Lessons_ <br>
   📝 _Everything you need to know to use Git & GitHub to work effectively as a team._
 
+---
+
+## Testing
+
+### Beginner to Advanced
+
+- **[Testing Javascript](https://www.testingjavascript.com/)** <br>
+  🙍🏻‍♂️ _Kent C. Dodds_ <br>
+  ⏰ _8 modules full of dense testing knowledge_ <br>
+  📝 _Learn the smart, efficient way to test any JavaScript application._
