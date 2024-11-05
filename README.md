@@ -42,6 +42,7 @@ Want to contribute? Awesome! Please follow these guidelines:
 ### Review Process
 
 All contributions are reviewed to ensure they align with the roadmap's standards and quality goals. After you submit a change, the team will review it and provide feedback or suggestions if needed.
+
 Together, we can make this roadmap a valuable resource for front-end developers everywhere!
 
 Powered by Snapp! Front-End Engineers 💚
