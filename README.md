@@ -88,7 +88,7 @@ Powered by Snapp! Front-End Engineers 💚
 
 ### Deep & Advanced
 
-- **[Accessibility](https://frontendmasters.com/courses/archive/web-accessibility)**<br>
+- **[Accessibility](https://frontendmasters.com/courses/accessibility-v2)**<br>
   🙍🏻‍♂️ _Instructor: Jon Kuperman_ <br>
   ⏰ _4 Hours_ <br>
   📝 _Website Accessibility_
