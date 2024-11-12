@@ -55,8 +55,11 @@ Powered by Snapp! Front-End Engineers 💚
 - [Javascript](#javascript)
 - [TypeScript](#TypeScript)
 - [React](#react)
+- [Vue](#vue)
 - [Version Control and Collaboration](#Version-Control-and-Collaboration)
 - [Testing](#Testing)
+- [NextJs](#NextJs)
+- [Web Performance](#Web-Performance)
 
 ---
 
@@ -89,6 +92,11 @@ Powered by Snapp! Front-End Engineers 💚
   🙍🏻‍♂️ _Instructor: Jon Kuperman_ <br>
   ⏰ _4 Hours_ <br>
   📝 _Website Accessibility_
+
+- **[Enterprise Accessibility](https://frontendmasters.com/courses/enterprise-accessibility)**<br>
+  🙍🏻‍♂️ _Instructor: Marcy Sutton Todd_ <br>
+  ⏰ _5 Hours_ <br>
+  📝 _Proficient in UI accessibility, ARIA, focus management, testing, screen reader optimization, semantic HTML, and understanding JavaScript's impact on accessibility._
 
 - **[SEO](https://frontendmasters.com/courses/modern-seo)**<br>
   🙍🏻‍♂️ _Instructor: Mike North_ <br>
@@ -155,14 +163,14 @@ Powered by Snapp! Front-End Engineers 💚
   📝 _Learn to make your JavaScript applications scale._
 
 - **[TypeScript 5+ Fundamentals, v4](https://frontendmasters.com/courses/typescript-v4/)** <br>
-  🙍🏻‍♂️ _Mike North_ <br>
+  🙍🏻‍♂️ _Instructor: Mike North_ <br>
   ⏰ _5 Hours . 9 Sections . 34 Lessons_ <br>
   📝 _Learn all the key Typescript features such as variable typing, function signatures, union and intersection types, type aliases, and generics. Use effective strategies for transitioning your codebase to TypeScript for more robust and scalable applications._
 
 ### Intermediate
 
 - **[Intermediate TypeScript, v2](https://frontendmasters.com/courses/intermediate-typescript-v2/)** <br>
-  🙍🏻‍♂️ _Mike North_ <br>
+  🙍🏻‍♂️ _Instructor: Mike North_ <br>
   ⏰ _5 Hours . 9 Sections . 33 Lessons_ <br>
   📝 _Dive deeper into TypeScript's powerful features, including handling of extreme types, nullish values, ES modules, and advanced generics. Learn about namespaces, classes, top and bottom types, and practical use of conditional and mapped types. Gain proficiency in integrating non-TypeScript files and mastering utility types for more expressive and safe TypeScript coding._
 
@@ -227,6 +235,29 @@ Powered by Snapp! Front-End Engineers 💚
 
 ---
 
+## Vue
+
+### Beginner
+
+- **[Vue.js 3 Fundamentals with the Composition API](https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api)** <br>
+  🙍🏻‍♂️ _Instructor: Daniel Kelly_ <br>
+  ⏰ _1 Hour_ <br>
+  📝 _Learn the fundamental concepts and get up and running with Vue.js 3._
+
+- **[Vue 3 Fundamentals](https://frontendmasters.com/courses/vue-fundamentals)** <br>
+  🙍🏻‍♂️ _Instructor: Ben Hong_ <br>
+  ⏰ _7 Hours_ <br>
+  📝 _Get hands-on experience building with flexible components using directives, props, lifecycle hooks, and slots.._
+
+### Intermediate
+
+- **[TypeScript and Vue 3](https://frontendmasters.com/courses/vue-typescript)** <br>
+  🙍🏻‍♂️ _Instructor: Ben Hong_ <br>
+  ⏰ _3 Hours_ <br>
+  📝 _Learn the essential skills you need to leverage what makes TypeScript great in your Vue apps._
+
+---
+
 ## Version Control and Collaboration
 
 ### Beginner to Advanced
@@ -246,3 +277,37 @@ Powered by Snapp! Front-End Engineers 💚
   🙍🏻‍♂️ _Kent C. Dodds_ <br>
   ⏰ _8 modules full of dense testing knowledge_ <br>
   📝 _Learn the smart, efficient way to test any JavaScript application._
+
+---
+
+## NextJs
+
+### Intermediate
+
+- **[Introduction to Next.js](https://frontendmasters.com/courses/next-js-v3)**<br>
+  🙍🏻‍♂️ _Instructor: Scott Moss_ <br>
+  ⏰ _4.5 Hours_ <br>
+  📝 _Learn how to work with Next.js, a framework recommended by the React team._
+
+- **[Intermediate Next.js](https://frontendmasters.com/courses/intermediate-next-js)**<br>
+    🙍🏻‍♂️ _Instructor: Scott Moss_ <br>
+    ⏰ _3.5 Hours_ <br>
+    📝 _Level up your Next.js skills to build production-ready applications. Dive into advanced concepts like server actions, route slots, and data fetching strategies._
+
+### Advanced
+
+- **[Build an AI-Powered Next.js App](https://frontendmasters.com/courses/fullstack-app-next-v3)**<br>
+  🙍🏻‍♂️ _Instructor: Scott Moss_ <br>
+  ⏰ _7.5 Hours_ <br>
+  📝 _Create a full-stack AI-powered Journal app from scratch in Next.js._
+
+---
+
+## Web Performance
+
+### Intermediate to Advanced
+
+- **[Web Performance Fundamentals](https://frontendmasters.com/courses/web-perf-v2)**<br>
+  🙍🏻‍♂️ _Instructor: Todd Gardner_ <br>
+  ⏰ _6 Hours_ <br>
+  📝 _Speed up your websites and web apps by mastering the latest performance metrics and web optimization techniques._
