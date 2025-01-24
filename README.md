@@ -53,6 +53,7 @@ Powered by Snapp! Front-End Engineers 💚
 
 - [HTML & CSS](#html--css)
 - [Javascript](#javascript)
+- [Data Structures & Algorithms](#Data-Structures--Algorithms)
 - [TypeScript](#TypeScript)
 - [React](#react)
 - [Vue](#vue)
@@ -153,7 +154,7 @@ Powered by Snapp! Front-End Engineers 💚
 
 ---
 
-## Data Structures + Algorithms
+## Data Structures & Algorithms
 
 ### Beginner to Advanced
 
