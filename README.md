@@ -61,6 +61,7 @@ Powered by Snapp! Front-End Engineers 💚
 - [Testing](#Testing)
 - [NextJs](#NextJs)
 - [Web Performance](#Web-Performance)
+- [DevOps For Frontend](#DevOps-For-Frontend)
 
 ---
 
@@ -324,3 +325,27 @@ Powered by Snapp! Front-End Engineers 💚
   🙍🏻‍♂️ _Instructor: Todd Gardner_ <br>
   ⏰ _6 Hours_ <br>
   📝 _Speed up your websites and web apps by mastering the latest performance metrics and web optimization techniques._
+
+---
+
+## DevOps For Frontend
+
+### Beginner to Advanced
+
+- **[Yaml](https://www.youtube.com/watch?v=1uFVr15xDGg&list=PLdXsWnRHMDIKqUMDtWFJVySp3rwHM0qdI&index=2&t=7s)**<br>
+  🙍🏻‍♂️ _Instructor: Nana_
+
+- **[Docker](https://www.youtube.com/watch?v=3c-iBn73dDE&list=PLdXsWnRHMDIKqUMDtWFJVySp3rwHM0qdI&index=2&t=3152s)**<br>
+  🙍🏻‍♂️ _Instructor: Nana_
+
+- **[Docker](https://codewithmosh.com/p/the-ultimate-docker-course)**<br>
+  🙍🏻‍♂️ _Instructor: Mosh_
+
+- **[CI/CD](https://www.youtube.com/watch?v=qP8kir2GUgo&list=PLdXsWnRHMDIKqUMDtWFJVySp3rwHM0qdI&index=5)**<br>
+  🙍🏻‍♂️ _Instructor: Nana_
+
+- **[Kubernetes](https://www.youtube.com/watch?v=s_o8dwzRlu4&list=PLdXsWnRHMDIKqUMDtWFJVySp3rwHM0qdI&index=3&t=4s)**<br>
+  🙍🏻‍♂️ _Instructor: Nana_
+
+- **[Full Project (Docker, CI/CD, Kubernetes, Microservices)](https://www.techworld-with-nana.com/gitlab-cicd-course)**<br>
+  🙍🏻‍♂️ _Instructor: Nana_
