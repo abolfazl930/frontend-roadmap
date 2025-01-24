@@ -153,6 +153,16 @@ Powered by Snapp! Front-End Engineers 💚
 
 ---
 
+## Data Structures + Algorithms
+
+### Beginner to Advanced
+
+- **[Data Structures & Algorithms](https://zerotomastery.io/courses/learn-data-structures-and-algorithms/)** <br>
+  🙍🏻‍♂️ _Instructor: Andrei Neagoie_ <br>
+  📝 _We guarantee you that this is the best coding interview bootcamp that you can find if you are serious about learning data structures & algorithms, want to make up for not having a Computer Science Degree, and want to get hired as a Developer at the company of your dreams._
+
+---
+
 ## TypeScript
 
 ### Beginner
@@ -283,18 +293,21 @@ Powered by Snapp! Front-End Engineers 💚
 ## NextJs
 
 ### Beginner
+
 - **[Introduction to Next.js](https://frontendmasters.com/courses/next-js-v3)**<br>
   🙍🏻‍♂️ _Instructor: Scott Moss_ <br>
   ⏰ _4.5 Hours_ <br>
   📝 _Learn how to work with Next.js, a framework recommended by the React team._
 
 ### Intermediate
+
 - **[Intermediate Next.js](https://frontendmasters.com/courses/intermediate-next-js)**<br>
-    🙍🏻‍♂️ _Instructor: Scott Moss_ <br>
-    ⏰ _3.5 Hours_ <br>
-    📝 _Level up your Next.js skills to build production-ready applications. Dive into advanced concepts like server actions, route slots, and data fetching strategies._
+  🙍🏻‍♂️ _Instructor: Scott Moss_ <br>
+  ⏰ _3.5 Hours_ <br>
+  📝 _Level up your Next.js skills to build production-ready applications. Dive into advanced concepts like server actions, route slots, and data fetching strategies._
 
 ### Advanced
+
 - **[Build an AI-Powered Next.js App](https://frontendmasters.com/courses/fullstack-app-next-v3)**<br>
   🙍🏻‍♂️ _Instructor: Scott Moss_ <br>
   ⏰ _7.5 Hours_ <br>
